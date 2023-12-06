@@ -1,6 +1,6 @@
 
  
 
-| Hotel history       | [Menus](https://botleigh-grange.github.io/Menus/)         | Events |
+| ***Hotel history***       | ***Royal swan***         |***Hunters inn***  |
 |----------|----------|----------|
-| Royal swan | Hunters inn |  |
+| ***Afternoon Tea*** | ***Restaurant*** | ***Events***  |
