@@ -1,5 +1,4 @@
 
-<ins> ***Home***</ins>
  
 
 | Hotel history       | Menus         | Events |
