@@ -1,5 +1,8 @@
 # ***Home***
 
+![image](https://github.com/Botleigh-Grange/Practice/assets/151997230/c244a715-c313-4306-a66b-518c0ebc1969)
+
+
 >   [***Hotel history 📜***](https://botleigh-grange.github.io/History/)
 
 ____
