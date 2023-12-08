@@ -1,3 +1,5 @@
+# ***Home***
+
 >   [***Hotel history 📜***](https://botleigh-grange.github.io/History/)
 
 ____
